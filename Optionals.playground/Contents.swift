@@ -10,7 +10,6 @@ fruits = []
 //brokenFirstItem(fruits)  // Breaks :-(
 
 
-
 func firstItem(items: [String]) -> String? {
     if items.isEmpty {
         return nil
